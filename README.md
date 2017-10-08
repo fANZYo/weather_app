@@ -1,3 +1,3 @@
 # Weather App
 
-[Demo](https://fanzyo.github.io/weather_app/)
+[Live demo](https://fanzyo.github.io/weather_app/)
